@@ -1,0 +1,38 @@
+#tab_container .tab_content label {
+	width: 175px;
+	display: block;
+	float: left;
+}
+.wp-box {
+	background: none repeat scroll 0 0 white;
+	border: 1px solid #E1E1E1;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	position: relative;
+}
+.wp-box .inner {
+	padding: 10px;
+}
+.wp-box .footer {
+	background: none repeat scroll 0 0 whiteSmoke;
+	border-top: 1px solid #E1E1E1;
+	overflow: hidden;
+	padding: 10px;
+	position: relative;
+}
+#plugin-options {
+
+}
+#plugin-options #right-column {
+	display:inline;
+	float:right;
+	width:25%;
+}
+#plugin-options #left-column {
+	display:inline;
+	float:left;
+	width:72.5%;
+	margin-right:2%;
+}
+.clear {
+	clear:both;
+}
